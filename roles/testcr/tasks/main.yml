@@ -1,0 +1,5 @@
+---
+# tasks file for testcr
+
+- fail:
+    msg: Failing the task!

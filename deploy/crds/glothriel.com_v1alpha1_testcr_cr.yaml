@@ -1,0 +1,7 @@
+apiVersion: glothriel.com/v1alpha1
+kind: TestCR
+metadata:
+  name: example-testcr
+spec:
+  # Add fields here
+  size: 3
